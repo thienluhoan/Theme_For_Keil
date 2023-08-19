@@ -86,7 +86,7 @@ style.cpp.6=font:Fira Code Medium,size:10,fore:#D69D85,back:#1E1E1E
 style.cpp.11=font:Fira Code Medium,size:10,fore:#DCDCDC,back:#1E1E1E
 style.cpp.9=font:Fira Code Medium,size:10,fore:#9B9B9B,back:#1E1E1E
 style.cpp.7=font:Fira Code Medium,size:10,fore:#D69D85,back:#1E1E1E
-style.cpp.34=font:Fira Code Medium,size:10,fore:#DCDCDC,back:#1E1E1E
+style.cpp.34=font:Fira Code Medium,size:10,fore:#DCDCDC,back:#0E4583
 style.cpp.35=font:Fira Code Medium,size:10,fore:#FF8C00,back:#1E1E1E
 style.cpp.16=font:Fira Code Medium,size:10,fore:#B8D7A3,back:#1E1E1E
 style.cpp.12=font:Fira Code Medium,size:10,fore:#D69D85,back:#1E1E1E
@@ -111,6 +111,6 @@ style.asm.8=font:Fira Code Medium,size:10,fore:#46AA03,back:#FFFFFF
 
 # Editor Text files
 font.monospace.txt=Fira Code Medium
-style.txt.32=font:Verdana,size:10,fore:#010101,back:#FFFFFF
+style.txt.32=font:Fira Code Medium,size:10,fore:#010101,back:#FFFFFF
 
 
